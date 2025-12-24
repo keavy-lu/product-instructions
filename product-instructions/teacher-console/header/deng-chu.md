@@ -1,0 +1,14 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/WTxbAbKB0TELS2ctNevX/gong-neng-cao-zuo/jiao-shi-hou-tai/header/deng-chu
+---
+
+# 登出
+
+### 如何在教師後台中登出當前使用的帳號？
+
+<mark style="background-color:purple;">設定位置：教師後台 -> Hader -> 個人頭像</mark>
+
+點擊教師後台 Header 的「個人頭像」後，於下拉式選單接續點擊「登出」，系統即會替玩家登出當前使用的帳號，並跳轉至首頁大廳。

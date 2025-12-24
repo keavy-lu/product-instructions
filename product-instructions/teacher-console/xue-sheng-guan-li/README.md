@@ -1,0 +1,18 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/WTxbAbKB0TELS2ctNevX/gong-neng-cao-zuo/jiao-shi-hou-tai/xue-sheng-guan-li
+---
+
+# 學生管理
+
+{% hint style="info" %}
+<mark style="color:blue;">學生管理為管理班級與學生的功能</mark>
+{% endhint %}
+
+學生管理中有三項子功能，分別為：
+
+1. 我的班級：可供管理學生清單
+2. 遊戲入口管理：可供限制或解除學生的使用狀況
+3. 訊息管理：可供傳達訊息給學生
