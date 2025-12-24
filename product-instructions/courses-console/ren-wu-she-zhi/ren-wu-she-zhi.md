@@ -10,7 +10,7 @@ metaLinks:
 {% hint style="info" %}
 此功能為「管理者介面的世界任務管理」的閹割版本，僅能派發世界任務至該課程世界、為所有取得世界任務的課程世界提早結束該世界任務。
 
-如需要調整更多設置項目，請參考[此連結](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/ying-yun-guan-li/shi-jie-ren-wu-guan-li.md)。
+如需要調整更多設置項目，請參考[此連結](../../admin-all-courses-setting/ying-yun-guan-li/shi-jie-ren-wu-guan-li.md)。
 {% endhint %}
 
 ### 如何在課程管理介面中派發世界任務至該世界？

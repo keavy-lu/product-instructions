@@ -194,8 +194,8 @@ metaLinks:
 
 點擊「新增訂閱制商品」後，請依照以下內容填寫該訂閱制商品的各個設定項目
 
-1. [**商品設定（訂閱制教材）**](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/ding-yue-zhi-jiao-cai.md#shang-pin-she-ding-ding-yue-zhi-jiao-cai)
-2. [**商品價格（訂閱制教材）**](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/ding-yue-zhi-jiao-cai.md#shang-pin-jia-ge-ding-yue-zhi-jiao-cai)
+1. [**商品設定（訂閱制教材）**](../../admin-all-courses-setting/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/ding-yue-zhi-jiao-cai.md#shang-pin-she-ding-ding-yue-zhi-jiao-cai)
+2. [**商品價格（訂閱制教材）**](../../admin-all-courses-setting/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/ding-yue-zhi-jiao-cai.md#shang-pin-jia-ge-ding-yue-zhi-jiao-cai)
 
 </details>
 

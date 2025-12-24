@@ -34,7 +34,7 @@ metaLinks:
 {% endhint %}
 
 {% hint style="warning" %}
-1. 如果管理者後台的教案資源管理處已有任務的對應教案，原因可能為教案並無綁定此任務，詳請可參考[此連結](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/chan-pin-guan-li/jiao-xue-zi-yuan/jiao-an-guan-li.md#ru-he-cha-kan-huo-bian-ji-yi-shang-chuan-de-jiao-xue-zi-yuan)
+1. 如果管理者後台的教案資源管理處已有任務的對應教案，原因可能為教案並無綁定此任務，詳請可參考[此連結](../../admin-all-courses-setting/chan-pin-guan-li/jiao-xue-zi-yuan/jiao-an-guan-li.md#ru-he-cha-kan-huo-bian-ji-yi-shang-chuan-de-jiao-xue-zi-yuan)
 2. 點擊「查看文章」後，如果是不支援顯示題組的詳解，會跳出「暫時無法此題查看詳解」提醒
 {% endhint %}
 

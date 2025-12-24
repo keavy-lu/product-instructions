@@ -155,8 +155,8 @@ metaLinks:
 
 點擊「新增買斷制商品」後，請依照以下內容填寫該買斷制商品的各個設定項目
 
-1. [商品價格（買斷制商品）](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/mai-duan-zhi-jiao-cai.md#shang-pin-jia-ge-mai-duan-zhi-shang-pin)
-2. [商品設定（買斷制商品）](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/mai-duan-zhi-jiao-cai.md#shang-pin-she-ding-mai-duan-zhi-shang-pin)
+1. [商品價格（買斷制商品）](../../admin-all-courses-setting/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/mai-duan-zhi-jiao-cai.md#shang-pin-jia-ge-mai-duan-zhi-shang-pin)
+2. [商品設定（買斷制商品）](../../admin-all-courses-setting/chan-pin-guan-li/shang-pin-guan-li/jiao-cai-guan-li/mai-duan-zhi-jiao-cai.md#shang-pin-she-ding-mai-duan-zhi-shang-pin)
 
 </details>
 

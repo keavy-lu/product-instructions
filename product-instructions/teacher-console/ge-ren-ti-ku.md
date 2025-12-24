@@ -101,7 +101,7 @@ metaLinks:
    * 若成功，將顯示成功訊息，耐心等候 1\~2 小時即可上傳完畢
 
 {% hint style="warning" %}
-如果個人題庫並無批量上傳的功能，原因是因為該使用者並無該權限，詳情請參考[該連結](../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/xi-tong-she-ding/shi-yong-zhe-zhang-hao-guan-li.md#ru-he-cha-kan-huo-bian-ji-shi-yong-zhe-de-zi-xun)
+如果個人題庫並無批量上傳的功能，原因是因為該使用者並無該權限，詳情請參考[該連結](../admin-all-courses-setting/xi-tong-she-ding/shi-yong-zhe-zhang-hao-guan-li.md#ru-he-cha-kan-huo-bian-ji-shi-yong-zhe-de-zi-xun)
 {% endhint %}
 
 ### 如何批量上傳多語系的題目？

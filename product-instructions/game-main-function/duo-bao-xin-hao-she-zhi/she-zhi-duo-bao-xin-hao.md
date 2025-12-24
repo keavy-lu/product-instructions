@@ -69,7 +69,7 @@ metaLinks:
 
 ***
 
-1. 使用多語系題目語言，請配合使用[課程管理的編輯功能設定語言](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/xi-tong-she-ding/ke-cheng-guan-li.md#ru-he-bian-ji-ke-cheng-shi-jie-de-zi-xun)
+1. 使用多語系題目語言，請配合使用[課程管理的編輯功能設定語言](../../admin-all-courses-setting/xi-tong-she-ding/ke-cheng-guan-li.md#ru-he-bian-ji-ke-cheng-shi-jie-de-zi-xun)
 2. 若修改題目來源，且有玩家在地圖，下一題就會以新的規則與順序進行
 
 ***
@@ -133,7 +133,7 @@ metaLinks:
 
 ***
 
-如列表中並無欲選擇的道具，需要至管理者介面下，遊戲設定的本課程道具數值，開啟可使用的道具，詳情可參考[此連結](../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/you-xi-she-ding/ben-ke-cheng-dao-ju-shu-zhi.md#ru-he-bian-ji-chan-yi-ke-cheng-shi-jie-de-dao-ju-shu-zhi)
+如列表中並無欲選擇的道具，需要至管理者介面下，遊戲設定的本課程道具數值，開啟可使用的道具，詳情可參考[此連結](../../admin-all-courses-setting/you-xi-she-ding/ben-ke-cheng-dao-ju-shu-zhi.md#ru-he-bian-ji-chan-yi-ke-cheng-shi-jie-de-dao-ju-shu-zhi)
 
 ***
 

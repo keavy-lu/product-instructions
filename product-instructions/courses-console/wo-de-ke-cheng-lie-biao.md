@@ -10,7 +10,7 @@ metaLinks:
 {% hint style="info" %}
 此功能為「管理者介面的課程管理」的閹割版本，僅能調整部份內容。
 
-如需要調整更多設置項目，請參考[此連結](../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/xi-tong-she-ding/ke-cheng-guan-li.md)
+如需要調整更多設置項目，請參考[此連結](../admin-all-courses-setting/xi-tong-she-ding/ke-cheng-guan-li.md)
 {% endhint %}
 
 ### 如何在課程管理介面中編輯課程？
@@ -29,7 +29,7 @@ metaLinks:
 {% hint style="warning" %}
 如果我的課程列表中並無出現欲編輯的世界，原因可能有二：
 
-1. 該課程在系統設定的課程管理裡，其顯示課程設定值為「否」，詳請請參考[此連結](../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/xi-tong-she-ding/ke-cheng-guan-li.md#ru-he-bian-ji-ke-cheng-shi-jie-de-zi-xun)
+1. 該課程在系統設定的課程管理裡，其顯示課程設定值為「否」，詳請請參考[此連結](../admin-all-courses-setting/xi-tong-she-ding/ke-cheng-guan-li.md#ru-he-bian-ji-ke-cheng-shi-jie-de-zi-xun)
 2. 尚未取得該課程的「課程管理權限」，詳請請參考[管理者後台的做法](../admin-courses/gamecharacters.md#ru-he-da-kai-you-hu-jiao-se-de-quan-xian)或是課程管理介面的作法
 {% endhint %}
 

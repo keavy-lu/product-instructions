@@ -35,7 +35,7 @@ metaLinks:
 5. 設定詳解：不能看詳解、可以看詳解、強制跳詳解
 
 {% hint style="info" %}
-1) 使用多語系題目語言，請配合使用[課程管理的編輯功能設定語言](../../../guan-li-zhe-hou-tai-quan-ke-cheng-shi-jie-she-ding/xi-tong-she-ding/ke-cheng-guan-li.md#ru-he-bian-ji-ke-cheng-shi-jie-de-zi-xun)
+1) 使用多語系題目語言，請配合使用[課程管理的編輯功能設定語言](../../../admin-all-courses-setting/xi-tong-she-ding/ke-cheng-guan-li.md#ru-he-bian-ji-ke-cheng-shi-jie-de-zi-xun)
 2) 若修改題目來源，且有玩家在地圖，下一題就會以新的規則與順序進行
 3) 出題規則中若含有重複出題，則當申論題有出現在題目中，會排除申論題的重複出題
 {% endhint %}
